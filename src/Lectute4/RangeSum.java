@@ -1,7 +1,8 @@
 package Lectute4;
 
 import java.util.Scanner;
-import java.util.concurrent.LinkedTransferQueue;
+ import java.util.concurrent.LinkedTransferQueue;
+
 
 public class RangeSum {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
 package Maytest;
 
-public class AmountPlus {
+public class MathematicalOperations {
     public static void main(String[] args) {
 
         System.out.println(2+2);
@@ -16,6 +16,7 @@ public class AmountPlus {
         System.out.println(2 + 2 * 2); // сначала идет умножение
         System.out.println((2 + 2) * 2); // прибавление, потом умножение
         System.out.println("2 + 2 = " + (2 + 2)); // сначала складывается в скобкахб после этого результат в строку и потом склеиваться со 2 строкой
-
+        System.out.println("3 + 2 = " + (3 + 2));
+        System.out.println(3 + 4 + 5 + 6 + 7);
     }
 }

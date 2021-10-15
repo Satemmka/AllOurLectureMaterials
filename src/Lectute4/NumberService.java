@@ -6,7 +6,7 @@ public class NumberService {
 
     int[] array;
 
-public void createArray(int start, int finish) {
+     public void createArray(int start, int finish) {
     array = new int[finish - start + 1];
 }
 
